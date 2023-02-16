@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about : **Java**
 
-- 📫 How to reach me **agarwalhardikvce@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22](https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22)
+- 📫 How to reach me : **[agarwalhardikvce@gmail.com]**
 
 - ⚡ Fun fact : **I Love to do Singing,Poetry & Mimicry**
 
