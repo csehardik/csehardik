@@ -1,27 +1,26 @@
-<h1 align="center">Hello World!!👋 </h1>
-<h3 align="center">I'm Hardik Aggarwal , a final Year B.Tech(CSE) student of Vidya College Of Engineering.</h3>
+<h1 align="center">Hello World 👋 </h1>
+<h3 align="center">I'm Hardik Aggarwal,a final year B.Tech(CSE) student of Vidya College Of Engineering & A passionate frontend developer</h3>
 
 <img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csehardik&label=Profile%20views&color=0e75b6&style=flat" alt="csehardik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csehardik&label=Profile%20views&color=0e75b6&style=flat" alt="csehardik" /> </p>
 
 - 🌱 I’m currently learning **React,Bootstrap**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Agarwalhardikvce@gmail.com**
+- 📫 How to reach me **agarwalhardikvce@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K92NuVns3EXn_C1RvzspLnggTAv7Wr7G/view?usp=sharing](https://drive.google.com/file/d/1K92NuVns3EXn_C1RvzspLnggTAv7Wr7G/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22](https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22)
 
-- ⚡ Fun fact **I Love to do Singing ,Poetry ,Mimicry**
+- ⚡ Fun fact **I Love to do Singing,Poetry & Mimicry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hardik-aggarwal-a22673164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hardik-aggarwal-a22673164/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aggarwalhardik17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aggarwalhardik17/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aggarwalhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aggarwalhardik17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hardik-aggarwal-a22673164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-aggarwal-a22673164" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aggarwalhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aggarwalhardik17" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aggarwalhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aggarwalhardik17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
