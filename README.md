@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22](https://drive.google.com/drive/u/0/folders/1SCZYD8zn5gTQN8UtogAc6LVU-ExKPx22)
 
-- ⚡ Fun fact **I Love to do Singing,Poetry & Mimicry**
+- ⚡ Fun fact : **I Love to do Singing,Poetry & Mimicry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
