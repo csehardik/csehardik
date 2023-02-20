@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about : **Java**
+- 💬 Ask me about : **JAVA**
 
 - 📫 How to reach me : **[agarwalhardikvce@gmail.com]**
 
