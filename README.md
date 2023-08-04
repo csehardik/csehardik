@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋 I'm Hardik Aggarwal</h1>
-<h3 align="center">a final year B.Tech(CSE) student of Vidya College Of Engineering & A passionate frontend developer</h3>
+<h3 align="center">A Software Engineer Passed out from Vidya College Of Engineering (2019-23)& A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csehardik&label=Profile%20views&color=0e75b6&style=flat" alt="csehardik" /> </p>
 
-- 🌱 I’m currently learning **React,SpringBoot**
+- 🌱 I’m currently learning **MERN,JAVA Backend**
 
 - 💬 Ask me about **Java**
 
